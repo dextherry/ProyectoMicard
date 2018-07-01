@@ -3,10 +3,10 @@
 # Proyecto Micard - desarrollo de aplicaciones mobiles
 
 ##### Alumnos:
-Bautista Charles
-Guzman Jose
-Navez Jonatan
-Ramos Therry
+* Bautista Charles
+* Guzman Jose
+* Navez Jonatan
+* Ramos Therry
 
 ## 1. Prototipos
 ![](https://i.imgur.com/M3SyVVS.png)
