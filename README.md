@@ -1,28 +1,28 @@
 
 
-#Proyecto Micard - desarrollo de aplicaciones mobiles
+# Proyecto Micard - desarrollo de aplicaciones mobiles
 
-#####Alumnos:
+##### Alumnos:
 Bautista Charles
 Guzman Jose
 Navez Jonatan
 Ramos Therry
 
-##1. Prototipos
+## 1. Prototipos
 ![](https://i.imgur.com/M3SyVVS.png)
 
 
-##2. Historias de usuarios
+## 2. Historias de usuarios
 [![https://i.imgur.com/OfSukH6.png](https://i.imgur.com/OfSukH6.png "https://i.imgur.com/OfSukH6.png")](https://i.imgur.com/OfSukH6.png "https://i.imgur.com/OfSukH6.png")
 
-###Diseño de su base de datos en firebase,
+### Diseño de su base de datos en firebase,
 
 ![](https://i.imgur.com/FzUywXv.png)
 
 ##### Proceso
-Se decidio usar esa estructura, ya que las tarjetas van a contener tales atributos
+Se decidió usar esa estructura, ya que las tarjetas van a contener tales atributos
 
-###Problemas encontrados
+### Problemas encontrados
 
 1. Computadoras de la upao
 
@@ -30,7 +30,7 @@ Se decidio usar esa estructura, ya que las tarjetas van a contener tales atribut
 
 3. Conflictos por versiones api
 
-###Screenshots del proyecto final
+### Screenshots del proyecto final
 
 ![](https://i.imgur.com/eVoct1F.png)
 
