@@ -42,10 +42,10 @@ Se decidió usar esa estructura, ya que las tarjetas van a contener tales atribu
 
 
 
-Historia de Usuario | Puntos | Terminada
-Crear Card : Si
-Editar  Card : Si
-Pantalla principal lista de Cards : Si
-Login: no
+* Historia de Usuario | Puntos | Terminada
+* Crear Card : Si
+* Editar  Card : Si
+* Pantalla principal lista de Cards : Si
+* Login: no
 
-Estado del proyecto: 50%
+* Estado del proyecto: 50%
